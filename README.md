@@ -1,7 +1,3 @@
-Certainly! Here's a basic README file for your project structure:
-
----
-
 # Brain Tumor Detection Project
 
 This project aims to detect brain tumors using a custom model. It includes a web-based front end built with Streamlit for user interaction and visualization.
@@ -39,9 +35,3 @@ The `brain-tumor-detection.ipynb` notebook is where the brain tumor detection mo
 ## Note
 
 - The `requirements.txt` file lists the project dependencies. Make sure to install them before running the Streamlit app.
-
-Feel free to explore the code and adapt it for your needs. If you have any questions or issues, please refer to the project documentation or contact the project maintainers.
-
----
-
-You can customize this README to provide more details about your project, instructions for setting up the environment, and any other relevant information.
