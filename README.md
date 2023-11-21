@@ -14,7 +14,7 @@ The `custom-model.h5` file represents the pre-trained custom model for brain tum
 
 ### 3. Notebook (Notebook/brain-tumor-detection.ipynb)
 
-The `brain-tumor-detection.ipynb` notebook is where the brain tumor detection model was developed and trained. It may include code, visualizations, and explanations related to the model creation process.
+The `brain-tumor-detection.ipynb` notebook is where the brain tumor detection model was developed and trained.
 
 ## How to Use
 
