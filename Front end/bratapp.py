@@ -20,7 +20,6 @@ st.markdown(hideMenuStyle, unsafe_allow_html=True)
 
 imageSize = 256
 
-
 def imageUploader():
     st.subheader("Upload an MR Image")
     imageUploaded = st.file_uploader(
